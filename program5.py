@@ -1,4 +1,3 @@
-from math import * 
-
-my_num = -5
-print(sqrt(36))
+coordinates = [4, 5 ]
+coordinates [1] = 10
+print (coordinates[1])
